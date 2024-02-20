@@ -28,5 +28,5 @@ The command will then output a waiting widget, and will provide you with you ans
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-09 100652.png" alt=""><figcaption><p>Widget preview</p></figcaption></figure>
 
 {% hint style="danger" %}
-For the current situation, 8ball is not using AI to generate responses.t
+For the current situation, 8ball is not using AI to generate responses.
 {% endhint %}

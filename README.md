@@ -1,7 +1,5 @@
 ---
-description: >-
-  The Documentation serves as the place for clearing all your doubts regarding
-  Alice !!
+description: This documentation will clear all your doubts you have about Alice!
 layout:
   title:
     visible: true
